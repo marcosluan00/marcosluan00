@@ -1,5 +1,8 @@
 ## 👋 Olá! Eu sou Marcos Damasceno
-Sou desenvolvedor Frontend com foco em Angular, com experiência em projetos de Landing Pages e Micro frontends, Java no backend, sistemas legados, deploys na Azure e conhecimento em DevOps. 
+Sou desenvolvedor frontend com foco em **Angular**, com experiência em projetos de **Landing Pages**, **Micro frontends**, backend com **Java**, sistemas legados, **deploys na Azure**, e conhecimento em **DevOps**.
+
+Embora eu tenha poucos projetos públicos aqui no GitHub, isso se deve ao meu foco em desenvolver tasks diretamente para clientes, onde atuo principalmente em projetos internos e sob demanda. Estou sempre trabalhando em soluções personalizadas e entregando valor real aos meus clientes, aplicando as melhores práticas de desenvolvimento.
+
 
 ### Sobre Mim
 - 🎯 Frontend Developer com 2 anos de experiência.
