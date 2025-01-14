@@ -7,4 +7,4 @@ Sou desenvolvedor frontend com foco em **Angular**, com experiência em projetos
 - 🛠️ Experiência com **Azure**, **Jira**, **WordPress**, e mais.
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=marcosluan00&show_icons=true&theme=dracula)
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=marcosluan00&theme=dark)
+
