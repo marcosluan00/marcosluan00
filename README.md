@@ -24,13 +24,6 @@
 
 **Testes & Qualidade:** JUnit · Mockito · Jest · Jasmine · SonarQube  ·  **Arquitetura:** Hexagonal · Micro Frontends · BFF · MVC · SOLID
 
-### 📌 Projetos em destaque
-| Projeto | Stack | O que mostra |
-|---|---|---|
-| [nome-do-projeto](#) | Angular 17+ · Native Federation · Spring Boot 3 · Docker | Micro frontends + design system compartilhado |
-| [nome-do-projeto](#) | Java 21 · Spring Boot · Hexagonal · Testcontainers · GitHub Actions | API com testes, CI/CD e Sonar |
-| [MarcosInformatica-Ecommerce](https://github.com/marcosluan00/MarcosInformatica-Ecommerce) | Angular · TypeScript | E-commerce |
-
 ### 📊 Estatísticas
 <p>
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=marcosluan00&show_icons=true&hide_border=true&theme=transparent"/>
